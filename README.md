@@ -1,5 +1,5 @@
 # My_versatility_portfolio
-## Portfolio showing my hands-on various projects
+## Portfolio showing my hands-on over various projects
 # Description
 ## User Story
 *  AN employer looking for candidates with experience building single-page applications
