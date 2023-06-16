@@ -1,10 +1,10 @@
 import React from "react";
 import "./Header.css"
 
-import ImgSoccer from "./assets/project-soccer.png";
+import ImgSoccer from "./assets/Soccer_Betting.png";
 import ImgEvent from "./assets/Event_Scheduler.png";
-import ImgSocial from "./assets/social_media_api.png"
-import ImgWeather from "./assets/weather.png"
+import ImgSocial from "./assets/Social_Media_API.png"
+import ImgWeather from "./assets/Weather.png"
 
 const projects = [
     {

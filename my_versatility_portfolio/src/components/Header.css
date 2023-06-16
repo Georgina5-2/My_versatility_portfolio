@@ -1,5 +1,5 @@
 .header {
-    background-image: url("./assets/background-header.png");
+    background-image: url("./assets/Background-Header.png");
     background-size: cover;
     min-height: 7rem;
 }
@@ -22,69 +22,69 @@
 }
 
 .font-blue {
-    color: #08088a;
+    color: #c0b706;
 }
 
 .font-pink {
-    color: #af0589;
+    color: #a89015;
 }
 
 .font-white {
-    color: whitesmoke;
+    color: rgb(233, 224, 231);
 }
 
 .border-pink {
-    border: 2px solid #af0589;
+    border: 2px solid #ba8fb1fe;      
     border-radius: 50%;
-    box-shadow: 0 0 10px 5px #af0589;
+    box-shadow: 0 0 10px 5px #9f1982;
 }
 
 .border-blue {
     background: linear-gradient(white, white) padding-box,
-        linear-gradient(90deg, rgba(55, 2, 110, 1) 0%, rgba(6, 5, 75, 1) 100%) border-box;
+        linear-gradient(90deg, rgb(249, 206, 107) 0%, rgb(118, 146, 139) 100%) border-box;
     border: 4px solid transparent;
 }
 
 .border-blue:hover {
     background: linear-gradient(white, white) padding-box,
-        linear-gradient(180deg, rgba(40, 249, 255, 1) 0%, rgba(56, 3, 111, 1) 100%) border-box;
+        linear-gradient(180deg, rgb(237, 231, 32) 0%, rgba(56, 3, 111, 1) 100%) border-box;
     border: 4px solid transparent;
     transition-duration: 2s;
 }
 
 .bg-blue {
-    background: linear-gradient(90deg, rgba(55, 2, 110, 1) 0%, rgba(6, 5, 75, 1) 100%);
+    background: linear-gradient(90deg, rgb(106, 62, 114) 0%, rgb(75, 19, 63) 100%);
 }
 
 .bg-text {
-    background-color: #0e085e;
+    background-color: #151501fe;
 }
 
 .bg-pink {
-    background: linear-gradient(90deg, rgba(40, 249, 255, 1) 0%, rgba(56, 3, 111, 1) 100%);
+    background: linear-gradient(90deg, rgb(101, 97, 100) 0%, rgb(50, 41, 48) 100%);
 }
 
 .nav-inactive {
     text-decoration: none;
     font-weight: bold;
-    color: #af0589;
+    color: #623f23;
     font-size: 1.75rem;
 }
 
 .nav-inactive:hover {
-    color: #ff08cd;
+    color: #979e20;
     transition-duration: .5s;
 }
 
 .nav-active {
     text-decoration: none;
     font-weight: bold;
-    color: #4ffbff;
+    color: #8a8789;
     font-size: 1.75rem;
 }
 
 .nav-active:hover {
-    color: #ff08cd;
+    color: #3e393d;
     transition-duration: .5s;
 }
 
@@ -95,7 +95,7 @@
 .button-inactive {
     background: linear-gradient(90deg, rgba(55, 2, 110, 1) 0%, rgba(6, 5, 75, 1) 100%);
     border: none;
-    color: gray;
+    color: rgb(84, 62, 62);
     padding: 5px 20px;
     text-align: center;
     text-decoration: none;
@@ -107,7 +107,7 @@
 .button-active {
     background: linear-gradient(90deg, rgba(55, 2, 110, 1) 0%, rgba(6, 5, 75, 1) 100%);
     border: none;
-    color: #4ffbff;
+    color: #72163c;
     padding: 5px 20px;
     text-align: center;
     text-decoration: none;

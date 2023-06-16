@@ -22,7 +22,7 @@ const pages = [
 
 const Header = ({ currentPage, handlePageChange }) => {
     return (
-        <header className="border-bottom border-5 border-primary">
+        <header className="border-bottom border-5 border-black">
             <div className="header" >
                 <div className="px-2 pt-3 justify-content-start flex-row">
                     <h1 className="font-os font-large font-pink bg-blue px-2 col-md-2">GEORGINA XAVIER</h1> <br />

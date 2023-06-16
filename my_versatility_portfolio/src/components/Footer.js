@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
-import LogoGH from "./assets/Github-Mark.png";
-import LogoLI from "./assets/linkedin_mark.png";
+import LogoGH from "./assets/GitHub-Mark.png";
+import LogoLI from "./assets/Linkedin_Mark.png";
 
 const contactObj = [
     {
