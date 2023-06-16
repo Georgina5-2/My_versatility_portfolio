@@ -1,25 +1,20 @@
 import React from "react";
 import "./Footer.css";
-import LogoFB from "./assets/logo-fb.png";
-import LogoGH from "./assets/logo-gh.png";
-import LogoLI from "./assets/logo-li.png";
+import LogoGH from "./assets/Github-Mark.png";
+import LogoLI from "./assets/linkedin_mark.png";
 
 const contactObj = [
     {
         name: "GitHub",
-        url: "https://github.com/NganPham89",
+        url: "https://github.com/Georgina5-2",
         icon: LogoGH,
     },
     {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/ngan-pham-524351276/",
-        icon: LogoLI,
+        url: "https://www.linkedin.com/in/georgina-xavier-690xls?",
+        icon:LogoLI ,
     },
-    {
-        name: "Facebook",
-        url: "https://www.facebook.com/",
-        icon: LogoFB,
-    }
+    
 ]
 
 const Footer = () => {
