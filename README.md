@@ -128,6 +128,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 # Link to the deployment:
 
+https://georgina5-2.github.io/My_versatility_portfolio/
+
+
+
 
 
 
