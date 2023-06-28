@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,7 +64,6 @@ In the project directory, you can run:
 <img width="1915" alt="portfolio3" src="https://github.com/Georgina5-2/My_versatility_portfolio/assets/122113060/2859fb39-c6d7-47e2-9cdd-63c59cdb8973">
 
 
->>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
 
 ### `npm start`
 
@@ -76,11 +75,8 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-<<<<<<< HEAD
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-=======
->>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
+Launches the test runner in the interactive watch mode
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information
 
 ### `npm run build`
 
@@ -90,11 +86,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-<<<<<<< HEAD
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-=======
->>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -111,7 +104,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-<<<<<<< HEAD
+
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
@@ -132,10 +125,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+# Link to the deployment:
+
+
+
+
 
 
 
@@ -144,4 +139,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
   
->>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
+
