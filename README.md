@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +6,65 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+=======
+# My_versatility_portfolio
+## Portfolio showing my hands-on over various projects
+# Description
+## User Story
+*  AN employer looking for candidates with experience building single-page applications
+* WANT to view a potential employee's deployed React portfolio of work samples
+*  THAT I can assess whether they're a good candidate for an open position
+## Acceptance Criteria
+* GIVEN a single-page application portfolio for a web developer
+* WHEN I load the portfolio
+* THEN I am presented with a page containing a header, a section for content, and a footer
+* WHEN I view the header
+* THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
+* WHEN I view the navigation titles
+* THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
+* WHEN I click on a navigation title
+* THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
+* WHEN I load the portfolio the first time
+* THEN the About Me title and section are selected by default
+* WHEN I am presented with the About Me section
+* THEN I see a recent photo or avatar of the developer and a short bio about them
+* WHEN I am presented with the Portfolio section
+* THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories
+* WHEN I am presented with the Contact section
+* THEN I see a contact form with fields for a name, an email address, and a message
+* WHEN I move my cursor out of one of the form fields without entering text
+* THEN I receive a notification that this field is required
+* WHEN I enter text into the email address field
+* THEN I receive a notification if I have entered an invalid email address
+* WHEN I am presented with the Resume section
+* THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
+* WHEN I view the footer
+* THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
+
+# Getting Started
+## Dependencies
+## Prerequisites
+### Browsers - Chrome, Safari, Mozilla Firefox
+* Operating Systems - Windows and Mac
+* Version Control Systems - Git and Github
+* Coding Platform - Microsoft Visual Studio Code *Programming languages - React, HTML  *Stylesheets - CSS *Script-file - Javascript
+* Commands - Git and MS-DOS commands
+* Server - node.js
+
+# Screenshots
+
+<img width="1919" alt="portfolio1" src="https://github.com/Georgina5-2/My_versatility_portfolio/assets/122113060/0e128ac1-3c61-4cb1-a029-693a57e3b36b">
+
+
+
+<img width="1920" alt="portfolio2" src="https://github.com/Georgina5-2/My_versatility_portfolio/assets/122113060/0542eeb0-4a25-4d13-adde-740e871c5cae">
+
+
+
+<img width="1915" alt="portfolio3" src="https://github.com/Georgina5-2/My_versatility_portfolio/assets/122113060/2859fb39-c6d7-47e2-9cdd-63c59cdb8973">
+
+
+>>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
 
 ### `npm start`
 
@@ -17,7 +77,10 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
+<<<<<<< HEAD
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+=======
+>>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
 
 ### `npm run build`
 
@@ -27,8 +90,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+<<<<<<< HEAD
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+=======
+>>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -45,6 +111,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+<<<<<<< HEAD
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
@@ -68,3 +135,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+
+
+
+
+
+
+
+  
+>>>>>>> 2e38a6bf0288ea20db6fc9cd835c0f51637c7458
